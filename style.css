@@ -1,4 +1,10 @@
 body {
     color: beige;
     background: gray;
+    margin: 0px;
+}
+
+header {
+  border-bottom: solid 1px beige;
+  padding: 20px;
 }
